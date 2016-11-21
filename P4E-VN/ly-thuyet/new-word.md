@@ -50,4 +50,6 @@ traverse : Đi qua
 nested : Lồng nhau
 behavior : hành vi
 messed-up : Sai lầm
+corresponding : tương ứng.
+brittle : dòn, dễ bẻ, mỏng manh.
 ```
